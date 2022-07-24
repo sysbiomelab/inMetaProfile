@@ -1,1 +1,19 @@
+#################################################################
+Reactobiome.zip
+reactobiome profile of 2911 healthy samples for 4397 reactions
+################################################################
+Bacterial abundance.txt
+MSP abundance profile of 2911 healthy samples.
+###############################################################
+Reaction abundance.zip
+Reaction abundance profile of 2911 healthy samples for 4397 reactions.
+###############################################################
+Pathways.txt
+157 pathways with KEGG reaction ID
+##############################################################
+PSE_output_coverage_0.01.txt
+The coverage of enriched pathways in 2911 healthy samples (P-value < 0.01)
+##############################################################
+PSE_output_coverage_0.001
+The coverage of enriched pathways in 2911 healthy samples (P-value < 0.001)
 
