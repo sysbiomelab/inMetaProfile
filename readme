@@ -18,5 +18,4 @@ PSE_output_coverage_0.001
 The coverage of enriched pathways in 2911 healthy samples (P-value < 0.001)
 ##############################################################
 absentPresent.txt
-shows absence/presence of each reaction in samples
-
+shows absence/presence of each reaction in samples (1 and 0 show present and absent, respectively )
